@@ -1,0 +1,28 @@
+{
+    "field": [
+        {
+            "name": "uname",
+            "label": "Name",
+            "type": "text",
+            "value":"",
+            "error":"",
+            "placeholder": "Name"
+        },
+        {
+            "name": "email",
+            "label": "Email",
+            "type": "email",
+            "value":"",
+            "error":"",
+            "placeholder": "Email"
+        },
+        {
+            "name": "mobile",
+            "label": "Mobile",
+            "type": "text",
+            "value":"",
+            "error":"",
+            "placeholder": "Mobile no"
+        }
+    ]
+}

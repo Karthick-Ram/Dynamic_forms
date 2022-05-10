@@ -37,7 +37,8 @@
   }
 }
 .error{
-  color:red
+  color:red;
+  padding-bottom: 0%;
 }
 input[type=text],[type=password],[type=email] {
   width: 40%;
